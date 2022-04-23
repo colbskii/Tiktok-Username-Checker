@@ -15,9 +15,9 @@
 ### Usage
 
 
-1. Download ZIP <a href="https://github.com/useragents/Proxyless-TikTok-Username-Checker/archive/refs/heads/main.zip">here</a> and extract the ZIP
-2. Install <a href="https://github.com/useragents/Proxyless-TikTok-Username-Checker/blob/main/requirements.txt">requirements.txt</a> by typing `pip install -r requirements.txt` in Command Prompt
-3. Enter your choice of usernames inside of the `usernames.txt` file, or generate them using the <a href="https://github.com/useragents/Proxyless-TikTok-Username-Checker/blob/main/username_generator.py">username_generator.py</a> script.
+1. Download ZIP <a href="https://github.com/lol-jude/TikTok-Username-Checker/archive/refs/heads/main.zip">here</a> and extract the ZIP
+2. Install <a href="https://github.com/lol-jude/TikTok-Username-Checker/blob/main/requirements.txt">requirements.txt</a> by typing `pip install -r requirements.txt` in Command Prompt
+3. Enter your choice of usernames inside of the `usernames.txt` file, or generate them using the <a href="https://github.comlol-jude/TikTok-Username-Checker/blob/main/username_generator.py">username_generator.py</a> script.
 4. Run the `main.py` script and enter the amount of threads you would like.
 5. All available usernames will be outputted to `Available.txt` file.
 
